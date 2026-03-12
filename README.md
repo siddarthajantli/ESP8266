@@ -26,9 +26,10 @@ Water Motor Automation
 Ultrasonic TRIG	D5 (GPIO14)<br/>
 Ultrasonic ECHO	D6 (GPIO12)<br/>
 OLED SDA	D2 (GPIO4)<br/>
-<br/>OLED SCL	D1 (GPIO5)<br/>
+OLED SCL	D1 (GPIO5)<br/>
 Relay IN	D7 (GPIO13)<br/>
 (Relay & OLED) VCC	3.3V<br/>
 (Relay & OLED) GND	GND
+
 ## Working Principle
 
