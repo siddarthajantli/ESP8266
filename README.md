@@ -31,5 +31,7 @@ Relay IN	D7 (GPIO13)<br/>
 (Relay & OLED) VCC	3.3V<br/>
 (Relay & OLED) GND	GND
 
-## Working Principle
+## Operational Theory
+
+
 
