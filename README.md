@@ -1,4 +1,6 @@
-# Using ESP8266 Water Tank Automation
+![IMG_20260312_200508460_HDR~3](https://github.com/user-attachments/assets/d6c2c4fd-97ee-47dc-a549-c72cb12c9283)
+
+# Smart Overhead Water Tank Motor Control Using ESP8266
 Water Motor Automation
 
 # Components
