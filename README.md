@@ -22,13 +22,13 @@ Water Motor Automation
 * Required Library: U8g2lib (for OLED graphics display)
 
 ## Hardware Connections
-**Component	ESP8266 Pin**
+**Component	ESP8266 Pin**<br/>
 Ultrasonic TRIG	D5 (GPIO14)<br/>
 Ultrasonic ECHO	D6 (GPIO12)<br/>
-Relay IN	D7 (GPIO13)<br/>
 OLED SDA	D2 (GPIO4)<br/>
 <br/>OLED SCL	D1 (GPIO5)<br/>
-VCC	3.3V\
-GND	GND
+Relay IN	D7 (GPIO13)<br/>
+(Relay & OLED) VCC	3.3V<br/>
+(Relay & OLED) GND	GND
 ## Working Principle
 
