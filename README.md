@@ -16,7 +16,7 @@
 * Motor / Water Pump
 
 ## Software
-* Arduino IDE
+* Arduino IDE<br/>
   https://www.arduino.cc/en/software/
 * C++
 * Required Library: U8g2lib (for OLED graphics display)
