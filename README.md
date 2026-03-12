@@ -23,11 +23,11 @@ Water Motor Automation
 
 ## Hardware Connections
 **Component	ESP8266 Pin**
-Ultrasonic TRIG	D5 (GPIO14)\ 
-Ultrasonic ECHO	D6 (GPIO12)\ 
-Relay IN	D7 (GPIO13)\ 
-OLED SDA	D2 (GPIO4)
-<br/>OLED SCL	D1 (GPIO5)\
+Ultrasonic TRIG	D5 (GPIO14)<br/>
+Ultrasonic ECHO	D6 (GPIO12)<br/>
+Relay IN	D7 (GPIO13)<br/>
+OLED SDA	D2 (GPIO4)<br/>
+<br/>OLED SCL	D1 (GPIO5)<br/>
 VCC	3.3V\
 GND	GND
 ## Working Principle
