@@ -3,26 +3,26 @@
 # Smart Overhead Water Tank Motor Control Using ESP8266
 Water Motor Automation
 
-# Components
+## Components
 
 * ESP8266 NodeMCU
 * Ultrasonic Sensor (HC-SR04)
 * OLED Display (SSD1306 128×64 I2C)
 * Relay Module (5V or 3.3V compatible)
 
-# Supporting Components
+## Supporting Components
 * Breadboard
 * Jumper Wires
 * Motor / Water Pump
 
-# Software
+## Software
 * Arduino IDE
   https://www.arduino.cc/en/software/
 * C++
 * Required Library: U8g2lib (for OLED graphics display)
 
-# Hardware Connections
+## Hardware Connections
 **Component	ESP8266 Pin**
-Ultrasonic TRIG	D5 (GPIO14) \ Ultrasonic ECHO	D6 (GPIO12) \ Relay IN	D7 (GPIO13) \ OLED SDA	D2 (GPIO4) /> OLED SCL	D1 (GPIO5) /> VCC	3.3V /> GND	GND />
-# Working Principle
+Ultrasonic TRIG	D5 (GPIO14)\ Ultrasonic ECHO	D6 (GPIO12)\ Relay IN	D7 (GPIO13)\ OLED SDA	D2 (GPIO4)<br/>OLED SCL	D1 (GPIO5) /> VCC	3.3V /> GND	GND />
+## Working Principle
 
