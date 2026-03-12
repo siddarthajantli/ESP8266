@@ -1,7 +1,7 @@
 ![IMG_20260312_200508460_HDR~3](https://github.com/user-attachments/assets/d6c2c4fd-97ee-47dc-a549-c72cb12c9283)
 
 # Smart Overhead Water Tank Motor Control Using ESP8266
-Water Motor Automation
+
 
 ## Components
 
@@ -40,17 +40,8 @@ When the water level falls below a predefined threshold (for example, 30%), the 
 The OLED display continuously shows the water level and motor status, providing real-time feedback to the user.
 
 ## System Architecture
-Ultrasonic Sensor
-       │
-       ▼
-ESP8266 (NodeMCU)
-   │        │
-   │        ├── OLED Display (Tank Level & Status)
-   │
-   ├── Relay Module
-   │        │
-   ▼        ▼
-Water Pump Motor
+<img width="538" height="287" alt="image" src="https://github.com/user-attachments/assets/c3c839e7-c9e6-4f8e-a15f-16a43124493f" />
+
 
 ## Implementation Steps
 
